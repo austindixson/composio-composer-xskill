@@ -4,7 +4,7 @@
   "version": "1.1.0",
   "displayName": "Composio Composer for X",
   "description": "Post, retrieve, and delete tweets on Twitter/X through Composio's integration platform. Uses Composio REST API with direct Twitter API v2 fallback.",
-  "author": "RuneweaverStudios",
+  "author": "austindixson",
   "main": "__init__.py",
   "tags": [
     "twitter",

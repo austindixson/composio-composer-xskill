@@ -6,7 +6,7 @@ Post, retrieve, and delete tweets on Twitter/X through Composio's integration pl
 
 ```bash
 # Install to your OpenClaw skills directory
-git clone https://github.com/RuneweaverStudios/composio-composer-xskill.git
+git clone https://github.com/austindixson/composio-composer-xskill.git
 cp -r composio-composer-xskill ~/.openclaw/workspace/skills/
 
 # Install dependencies
